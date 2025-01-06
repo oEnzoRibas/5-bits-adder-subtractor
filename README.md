@@ -29,8 +29,8 @@ The goal of this project is to design, implement, and validate a **5-bit signed 
 - Ensure the circuit functions correctly for all possible input combinations.  
 
 ## Repository Structure  
-- `Entrega/`: Contains the `.circ` file with the circuit implemented in Logisim.  
-- `documentation/`: Contains the `.pdf` documents detailing the project, including:  
+- `Deploy/`: Contains the `.circ` file with the circuit implemented in Logisim.  
+- `Deploy/Documentation/`: Contains the `.pdf` documents detailing the project, including:  
   - Truth tables.  
   - Circuit diagrams.  
   - Explanation of the adder/subtractor functionality, overflow detection, and 7-segment display integration.  

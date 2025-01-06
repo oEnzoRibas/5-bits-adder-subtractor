@@ -1,6 +1,7 @@
 # Final Project - Introduction to Digital Logic Systems  
 
-This repository contains the files for the Final Project of the course **Introduction to Digital Logic Systems**, part of the Computer Science program at Dom Helder Câmara University.  
+This repository contains the files for the Final Project of the course **Introduction to Digital Logic Systems**, part of the Computer Science program at Dom Helder Câmara University. 
+If you want to test it, download the `.circ` in the `Deploy/` folder, and run in on the Logisim software.
 
 ## Project Information  
 - **Course:** Introduction to Digital Logic Systems  
